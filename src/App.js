@@ -34,7 +34,7 @@ function App() {
         <div className='hero-container'>
           <div className='content'>
             <p className='content_para'>Trusted by 1 Million people</p>
-            <h1 className='content_h1'>Find you <span className='content_h1_span'>Kareegar</span></h1>
+            <h1 className='content_h1'>Find your <span className='content_h1_span'>Kareegar</span></h1>
             <h1 className='content_easyFast'>Easy & Fast</h1>
             <p className='content_message'>A Platform where you can get your desire Kareegar without any fatigue</p>
           </div>
